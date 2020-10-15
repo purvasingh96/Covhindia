@@ -18,7 +18,7 @@ Various variations of deep learning model to perform sentiment analysis on tweet
 | LSTM + GloVe Twitter Embeddings                |                   |                                                                                                                                     |
 | Basic Bi-directional LSTM                      |                   |                                                                                                                                     |
 | Bi-directional LSTM + GloVe Embeddings         |                   |                                                                                                                                     |
-| Bi-directional LSTM + FastText Embeddings      |                   |                                                                                                                                     |
+| Bi-directional LSTM + FastText Embeddings      | 91.6%             | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covindia-bilstm-fasttext.ipynb)     |
 | Bi-directional LSTM + GloVe Twitter Embeddings | 92.2%             | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covindia-bilstm-glovetwitter.ipynb) |
 | BERT                                           |                   |                                                                                                                                     |
 | GRU                                            |                   |                                                                                                                                     |
