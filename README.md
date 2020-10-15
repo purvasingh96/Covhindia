@@ -3,6 +3,8 @@
 ## Overview
 Various variations of deep learning model to perform sentiment analysis on tweets related to COVID19 from India
 
+[Paper on sentiment analysis](https://ieeexplore.ieee.org/abstract/document/9207881)
+
 ## Datasets
 1. Tweet dataset : [Kaggle dataset](https://www.kaggle.com/surajkum1198/twitterdata)
 2. GloVe embeddings : [GloVe](https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation)
