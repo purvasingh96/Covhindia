@@ -19,6 +19,6 @@ Various variations of deep learning model to perform sentiment analysis on tweet
 | Basic Bi-directional LSTM                      |                   |
 | Bi-directional LSTM + GloVe Embeddings         |                   |
 | Bi-directional LSTM + FastText Embeddings      |                   |
-| Bi-directional LSTM + GloVe Twitter Embeddings |                   |
+| Bi-directional LSTM + GloVe Twitter Embeddings |92.2%               |
 | BERT                                           |                   |
 | GRU                                            |                   |
