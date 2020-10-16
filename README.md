@@ -25,7 +25,8 @@ Various variations of deep learning model to perform sentiment analysis on tweet
 
 ## References
 
-[Paper on sentiment analysis](https://ieeexplore.ieee.org/abstract/document/9207881)
+[Paper on sentiment analysis](https://ieeexplore.ieee.org/abstract/document/9207881)<br>
+
 [Using NMT/HSWN for sentiment analysis on Hindi tweets](https://github.com/shubham721/Sentiment-Analysis-On-Hindi-Reviews/blob/22026e569c9e92bc7d89a0de3dad82d4b1672525/ResourceBasedSentimentClassification.py)
 
 
