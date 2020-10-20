@@ -1,4 +1,4 @@
-# COVINDIA : Deep Learning Model for Sentiment Classification on COVID19 Tweets from India
+# COVHINDIA : Deep Learning Model for Sentiment Classification on COVID19 Tweets from India
 
 ## Overview
 Various variations of deep learning model to perform sentiment analysis on tweets related to COVID19 from India
@@ -8,20 +8,20 @@ Various variations of deep learning model to perform sentiment analysis on tweet
 2. GloVe embeddings : [GloVe](https://www.kaggle.com/rtatman/glove-global-vectors-for-word-representation)
 3. FastText embeddings : [FastText](https://www.kaggle.com/vsmolyakov/fasttext)
 4. GloVe Twitter : [GloveTwitter](https://www.kaggle.com/bertcarremans/glovetwitter27b100dtxt)
+5. Crisis Embeddings : [Crisis Embeddings](https://github.com/CrisisNLP/deep-learning-for-big-crisis-data)
 
 
-| Model Description                              | Training Accuracy | Notebook Link                                                                                                                       |
-|------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Basic LSTM                                     |                   |                                                                                                                                     |
-| LSTM + GloVe Embeddings                        |                   |                                                                                                                                     |
-| LSTM + FastText Embeddings                     |                   |                                                                                                                                     |
-| LSTM + GloVe Twitter Embeddings                |                   |                                                                                                                                     |
-| Basic Bi-directional LSTM                      |                   |                                                                                                                                     |
-| Bi-directional LSTM + GloVe Embeddings         |                   |                                                                                                                                     |
-| Bi-directional LSTM + FastText Embeddings      | 91.6%             | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covindia-bilstm-fasttext.ipynb)     |
-| Bi-directional LSTM + GloVe Twitter Embeddings | 92.2%             | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covindia-bilstm-glovetwitter.ipynb) |
-| BERT                                           |                   |                                                                                                                                     |
-| GRU                                            |                   |                                                                                                                                     |
+| Model Description                         | Training Accuracy | Validation Accuracy | Notebook Link                                                                                                                                  |
+|-------------------------------------------|-------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Basic LSTM                                | 85.1%             | 86.7%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + GloVe Embeddings                   | 88.9%             | 90.9%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + FastText Embeddings                | 92.5%             | 88.9%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + Crisis Embeddings                  | 83.4%             | 84.7%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Basic Bi-directional LSTM                 | 87.3%             | 86.0%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + GloVe Embeddings    | 91.2%             | 90.6%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + FastText Embeddings | 88.3%             | 88.6%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + Crisis Embeddings   | 86.0%             | 85.1%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| BERT                                      | 99.7%             | 93.8%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bert.ipynb)                          |
 
 ## References
 
