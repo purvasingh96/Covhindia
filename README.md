@@ -1,7 +1,7 @@
 # COVHINDIA : Deep Learning Model for Sentiment Classification on COVID19 Tweets from India
 
 ## Overview
-Various variations of deep learning model to perform sentiment analysis on tweets related to COVID19 from India
+This repository describes a framework to perform sentiment analyis on COVID-19 tweets posted in Hindi language on Twitter platform. The framework leverages open-source machine translation tools to translate Hindi tweet to English and then pass the preprocessed translated tweet as an input to a BERT-based model for performing multi-lingual sentiment polarity detection. 
 
 ## Datasets
 1. Tweet dataset : [Kaggle dataset](https://www.kaggle.com/surajkum1198/twitterdata)
