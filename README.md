@@ -31,7 +31,7 @@ Below is the system architecture for sentiment polarity detection of COVID-19 tw
 
 ## Research Paper
 
-I have published my findings as a research paper: '[Covhindia: Deep Learning Framework for Sentiment Polarity Detection of Covid-19 Tweets in Hindi](https://aircconline.com/ijnlc/V9N5/9520ijnlc02.pdf)' in the '[International Journal on Natural Languge Computing](http://airccse.org/journal/ijnlc/index.html)'
+I have published my findings as a research paper: '[Covhindia: Deep Learning Framework for Sentiment Polarity Detection of Covid-19 Tweets in Hindi](https://aircconline.com/ijnlc/V9N5/9520ijnlc02.pdf)' in the '[International Journal on Natural Language Computing](http://airccse.org/journal/ijnlc/index.html)'
 ## References
 
 [Paper on sentiment analysis](https://ieeexplore.ieee.org/abstract/document/9207881)<br>
