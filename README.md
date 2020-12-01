@@ -13,15 +13,15 @@ This repository describes a framework to perform sentiment analyis on COVID-19 t
 
 | Model Description                         | Training Accuracy | Validation Accuracy | Notebook Link                                                                                                                                  |
 |-------------------------------------------|-------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Basic LSTM                                | 85.1%             | 86.7%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| LSTM + GloVe Embeddings                   | 88.9%             | 90.9%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| LSTM + FastText Embeddings                | 92.5%             | 88.9%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| LSTM + Crisis Embeddings                  | 83.4%             | 84.7%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| Basic Bi-directional LSTM                 | 87.3%             | 86.0%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| Bi-directional LSTM + GloVe Embeddings    | 91.2%             | 90.6%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| Bi-directional LSTM + FastText Embeddings | 88.3%             | 88.6%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| Bi-directional LSTM + Crisis Embeddings   | 86.0%             | 85.1%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
-| BERT                                      | 99.7%             | 93.8%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bert.ipynb)                          |
+| Basic LSTM                                | 85.1%             | 86.7%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/code/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + GloVe Embeddings                   | 88.9%             | 90.9%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + FastText Embeddings                | 92.5%             | 88.9%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| LSTM + Crisis Embeddings                  | 83.4%             | 84.7%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Basic Bi-directional LSTM                 | 87.3%             | 86.0%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + GloVe Embeddings    | 91.2%             | 90.6%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + FastText Embeddings | 88.3%             | 88.6%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| Bi-directional LSTM + Crisis Embeddings   | 86.0%             | 85.1%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
+| BERT                                      | 99.7%             | 93.8%               | [Notebook](https://github.com/purvasingh96/Covhindia/blob/main/code/covhindia-bert.ipynb)                          |
 
 
 ## System Architecture
