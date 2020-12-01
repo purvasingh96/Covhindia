@@ -23,6 +23,15 @@ This repository describes a framework to perform sentiment analyis on COVID-19 t
 | Bi-directional LSTM + Crisis Embeddings   | 86.0%             | 85.1%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bi-lstm-glove-fasttext-crisis.ipynb) |
 | BERT                                      | 99.7%             | 93.8%               | [Notebook](https://github.com/purvasingh96/Sentiment-Analysis-via-Deep-Learning-Model/blob/main/covhindia-bert.ipynb)                          |
 
+
+## System Architecture
+
+Below is the system architecture for sentiment polarity detection of COVID-19 tweets in Hindi using *machine translation and BERT*. <br>
+<img src="./img/Covhinida - System Architecture.png"></img>
+
+## Research Paper
+
+I have published my findings as a research paper: '[Covhindia: Deep Learning Framework for Sentiment Polarity Detection of Covid-19 Tweets in Hindi](https://aircconline.com/ijnlc/V9N5/9520ijnlc02.pdf)' in the '[International Journal on Natural Languge Computing](http://airccse.org/journal/ijnlc/index.html)'
 ## References
 
 [Paper on sentiment analysis](https://ieeexplore.ieee.org/abstract/document/9207881)<br>
